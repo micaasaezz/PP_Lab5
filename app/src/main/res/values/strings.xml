@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">PP</string>
+    <string name="textViewName">Product Name:</string>
+    <string name="placeholderName">Product Name</string>
+    <string name="textViewCantidad">Product Quantity:</string>
+    <string name="placeholderCantidad">15</string>
+    <string name="textViewPrecio">Product Price:</string>
+    <string name="placeholderPrecio">12.2</string>
+    <string name="buttonSave">Edit</string>
+</resources>
